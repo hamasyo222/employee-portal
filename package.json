@@ -1,0 +1,23 @@
+{
+  "name": "employee-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.20.1",
+    "zustand": "^4.4.7",
+    "shared": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.4.19",
+    "vitest": "^1.0.4"
+  }
+} 
